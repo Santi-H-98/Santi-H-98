@@ -12,7 +12,7 @@ Mechanical Engineer hailing from Argentina, with a passion for data science.
 
 💡 I believe in the power of data to complement the engineer, data brings innovation to every industry. I'm absolutely passionate for computer vision application and how those models could bring solutions for bussines.
 
-🌱 Here, I will be showing differents projects during my training stage. You are welcome to watch and please don't hesitate to contact me if you would like to talk anything.
+🌱 Here, I will be showing differents projects during my training stage. You are welcome to watch and please don't hesitate to contact me if you want talk with my.
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
