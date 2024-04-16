@@ -6,7 +6,7 @@
 ## My Bio:
 Mechanical Engineer hailing from Argentina, with a passion for data science.
 
-🛠️ With two years of hands-on experience in a leading agricultural multinational, I delved into the fascinating realm of data science. In October 2023, I made the pivotal decision to pivot my career trajectory, setting my sights on mastering the intricacies of data science.
+🛠️ With two years of hands-on experience in a leading agricultural multinational, I delved into the fascinating field of data science. In October 2023, I made the pivotal decision to pivot my career trajectory, setting my sights on mastering the intricacies of data science.
 
 📚 Currently, I'm immersed in pursuing a diploma in data science, honing my skills and knowledge to drive impactful insights and solutions in this dynamic field.
 
