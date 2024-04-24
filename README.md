@@ -6,13 +6,13 @@
 ## My Bio:
 Mechanical Engineer hailing from Argentina, with a passion for data science.
 
-🛠️ With two years of hands-on experience in a leading agricultural multinational, I delved into the fascinating field of data science. In October 2023, I made the pivotal decision to pivot my career trajectory, setting my sights on mastering the intricacies of data science.
+🛠️ With two years of hands-on experience in a leading agricultural multinational, I delved into the fascinating field of data science. In October 2023, I took the important decision to change my career, set myself the challenge of learning data science.
 
-📚 Currently, I'm immersed in pursuing a diploma in data science, honing my skills and knowledge to drive impactful insights and solutions in this dynamic field.
+📚 Currently, I got a diploma in data science, honing my skills and knowledge to drive impactful insights and solutions in this dynamic field.
 
 💡 I believe in the power of data to complement the engineer, data brings innovation to every industry. I'm absolutely passionate for computer vision application and how those models could bring solutions for bussines.
 
-🌱 Here, I will be showing differents projects during my training stage. You are welcome to watch and please don't hesitate to contact me if you want talk with my.
+🌱 Here, I will be showing differents projects during my training stage. You are welcome to watch and please don't hesitate to contact me if you want talk.
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
